@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/billymazotti/Documents/UofM/StirlingGroup/OSAM_HRI/OSAM-Project/RoboticArmSimulator/Source/RoboticArmSimulator/RoboticArmSimulator.Build.cs",
+		"/Users/billymazotti/Documents/UofM/StirlingGroup/OSAM_HRI/OSAM-Project/RoboticArmSimulator/Source/RoboticArmSimulator.Target.cs",
+		"/Users/billymazotti/Documents/UofM/StirlingGroup/OSAM_HRI/OSAM-Project/RoboticArmSimulator/Source/RoboticArmSimulatorEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RoboticArmSimulator",
+			"Path": "/Users/billymazotti/Documents/UofM/StirlingGroup/OSAM_HRI/OSAM-Project/RoboticArmSimulator/Source/RoboticArmSimulator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RoboticArmSimulatorEditor",
+			"Path": "/Users/billymazotti/Documents/UofM/StirlingGroup/OSAM_HRI/OSAM-Project/RoboticArmSimulator/Source/RoboticArmSimulatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
